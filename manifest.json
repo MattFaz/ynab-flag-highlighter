@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "YNAB Flag Highlighter",
     "version": "1.0",
     "description": "Highlight rows in your YNAB transaction list based on Flag color",
@@ -10,7 +10,7 @@
     "content_scripts": [
         {
             "matches": [
-                "https://app.ynab.com/*/accounts/*"
+                "https://app.ynab.com/*/accounts*"
             ],
             "js": [
                 "content.js"
