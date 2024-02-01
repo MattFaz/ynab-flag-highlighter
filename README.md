@@ -6,7 +6,7 @@
        height="200">
 <p align="center">
 <h4 align="center">Highlight rows in your YNAB transaction list based on Flag color</h4>
-<p align="center">Install from the <a href="https://addons.mozilla.org/en-US/firefox/addon/ynab-flag-highlighter">Firefox Add-ons Page</a></p>
+<p align="center">Install from the <a href="https://addons.mozilla.org/en-US/firefox/addon/ynab-flag-highlighter">Firefox Add-ons Page</a> or <a href="https://chromewebstore.google.com/detail/ynab-flag-highlighter/jepdheoimelcllnhlnjekngbpigeccno">Chrome Web Store</a></p>
 
 ---
 
