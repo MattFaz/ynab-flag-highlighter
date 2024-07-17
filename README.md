@@ -10,6 +10,8 @@
 
 ---
 
+**Note @ 2024-07-18:** Due to another YNAB Price Increase I've decided to leave YNAB for [Actual](https://github.com/actualbudget/actual) and therefore unable to maintain this extension _(as I don't have access to a YNAB account)_.
+
 ## Overview
 
 YNAB accounts page allow you to flag transactions with a color, this extension enhances the functionaltiy by highlighting the entire transaction row with a lighter version of the same color.
@@ -21,6 +23,3 @@ YNAB accounts page allow you to flag transactions with a color, this extension e
 <p align="center">Found an issue or requesting a new feature? Please <a href="https://github.com/MattFaz/ynab-flag-highlighter/issues/new">create a Gtithub issue</a>!</p>
 
 ---
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/MattFaz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-blue.png" alt="Buy Me A Coffee" style="height: 30 !important;width: 108px !important;" ></a></p>
